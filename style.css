@@ -1,0 +1,27 @@
+body {
+    background: #62374e;
+    padding: 150px;
+}
+.cube {
+    background: #fdc57b;
+    width: 100px;
+    height: 100px;
+}
+#first{
+width: auto;
+height: auto;
+display: inline-block;
+float: left;
+}
+#second{
+    width: auto;
+    height: auto;
+    display: inline-block;
+    float: right;
+}
+#c2{
+    margin-top: 200px;
+}
+#c4{
+    margin-top: 200px;
+}
